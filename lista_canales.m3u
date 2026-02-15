@@ -20,17 +20,17 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NetTV", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve, El Nueve
+#EXTINF:-1 tvg-id="ElNueve, El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-#EXTINF:-1 tvg-id="América TV, América TV
+#EXTINF:-1 tvg-id="AméricaTV, América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="TV Pública, TV Pública
+#EXTINF:-1 tvg-id="TVPublica, TV Pública
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Argentinisima Satelital, Argentinisima Satelital
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital, Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="Radio La 100, Fm Radio La 100
+#EXTINF:-1 tvg-id="RadioLa100, Fm Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8

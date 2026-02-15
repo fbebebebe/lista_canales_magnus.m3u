@@ -1,37 +1,25 @@
 #EXTM3U
 
-# Informativos
-#EXTINF:-1 group-title="Informativos" tvg-id="CronicaTv" logo="url_del_logo", Crónica TV
+# EJEMPLO DE INFORMATIVOS
+#EXTINF:-1 tvg-id="Cronica" group-title="Informativos" tvg-logo="http://url_logo.png", Crónica TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 group-title="Informativos" tvg-id="A24" logo="url_del_logo", A24
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+# EJEMPLO DE DEPORTES
+#EXTINF:-1 tvg-id="ESPN" group-title="Deportes" tvg-logo="http://url_logo.png", ESPN
+http://tuservidor.com/espn.m3u8
 
-# Generales
-#EXTINF:-1 group-title="Generales" tvg-id="ElNueve", ElNueve
-http://107.152.39.199:8030/hls/canal7.m3u8
+# EJEMPLO DE INFANTILES
+#EXTINF:-1 tvg-id="Cartoon" group-title="Infantiles" tvg-logo="http://url_logo.png", Cartoon Network
+http://tuservidor.com/cartoon.m3u8
 
-#EXTINF:-1 group-title="Generales" tvg-id="AmericaTV", AmericaTV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+# EJEMPLO DE ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="Telefe" group-title="Entretenimiento" tvg-logo="http://url_logo.png", Telefe
+http://tuservidor.com/telefe.m3u8
 
-#EXTINF:-1 group-title="Generales" tvg-id="TVPublica", TVPublica
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+# EJEMPLO DE MUSICA
+#EXTINF:-1 tvg-id="MTV" group-title="Musica" tvg-logo="http://url_logo.png", MTV Hits
+http://tuservidor.com/mtv.m3u8
 
-#EXTINF:-1 group-title="Generales" tvg-id="ArgentinisimaSatelital, Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-# Deportes
-#EXTINF:-1 group-title="Deportes" tvg-id="TyCSports", TyC Sports
-http://url.del.stream/tyc.m3u8
-
-# Infantiles
-#EXTINF:-1 group-title="Infantiles" tvg-id="CartoonNet", Cartoon Network
-http://url.del.stream/cartoon.m3u8
-
-# Novelas
-#EXTINF:-1 group-title="Novelas" tvg-id="Tlnovelas", Tlnovelas
-http://url.del.stream/tlnovelas.m3u8
-
-# Musica
-#EXTINF:-1 group-title="Musica" tvg-id="RadioLa100", Fm Radio La 100
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+# EJEMPLO DE NOVELAS
+#EXTINF:-1 tvg-id="Tlnovelas" group-title="Novelas" tvg-logo="http://url_logo.png", Telenovelas
+http://tuservidor.com/novelas.m3u8

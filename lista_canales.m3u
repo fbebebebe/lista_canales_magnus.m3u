@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="Cronica" group-title="Informativos" tvg-logo="http://url_logo.png", Crónica TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="A24" group-title="Informativos" tvg-logo="http://url_logo.png", A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
 # EJEMPLO DE DEPORTES
 #EXTINF:-1 tvg-id="ESPN" group-title="Deportes" tvg-logo="http://url_logo.png", ESPN
 http://tuservidor.com/espn.m3u8
@@ -13,8 +16,11 @@ http://tuservidor.com/espn.m3u8
 http://tuservidor.com/cartoon.m3u8
 
 # EJEMPLO DE ENTRETENIMIENTO
-#EXTINF:-1 tvg-id="Telefe" group-title="Entretenimiento" tvg-logo="http://url_logo.png", Telefe
-http://tuservidor.com/telefe.m3u8
+#EXTINF:-1 tvg-id="ElNueve" group-title="Entretenimiento" tvg-logo="http://url_logo.png", ElNueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV" group-title="Entretenimiento" tvg-logo="http://url_logo.png", AmericaTV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 # EJEMPLO DE MUSICA
 #EXTINF:-1 tvg-id="MTV" group-title="Musica" tvg-logo="http://url_logo.png", MTV Hits

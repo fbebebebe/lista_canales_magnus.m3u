@@ -83,8 +83,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaTVMendoza, Latina TV Mendoza
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="señalprueva1, Señal prueva 1
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:-1 tvg-id="señalprueva1, Señal prueva 1-
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2
 https://cubeembed.rpmvid.com/hls/pqnRiGQc-ovL8GEgGyF3Qw/db/fmg9y9ce/mi88hb/tt/index-f1-a1.m3u8?v=1766826492

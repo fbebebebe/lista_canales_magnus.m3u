@@ -74,5 +74,5 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2
 https://vod3.cf.dmcdn.net/sec2(ZQaOcivlkpfUyeV57mH2MKsjQgad02ZtQgFa2M7Fdr2-wXcErWZbmfNzLCtqLEpIjUQNuYzZbY9ZileTrbm6NJPYLEvDDoPIFcbMwx4MHKO-0yeACcjLConASvGD46h4CtfxsFrhynT5v7URnoVV8CorFOH2zAXL8pzPQen4TqA)/video/084/372/473273480_mp4_h264_aac_hq.m3u8#cell=cf3
 
-#EXTINF:-1 tvg-id="señalprueva3, Señal prueva 3-1
-https://cubeembed.rpmvid.com/hls/sl-7NkfQaWXniBLTGbf61w/mik/v1feamnk/sd5gcr/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-id="señalprueva3, Señal prueva 3-2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8

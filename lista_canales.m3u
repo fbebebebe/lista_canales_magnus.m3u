@@ -5,6 +5,9 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="CronicaHD", Cronica HD
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="CiudadMagazine, Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="CanalE", Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
@@ -68,11 +71,11 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja, Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="señalprueva1, Señal prueva 1-1
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="señalprueva1, Señal prueva 1-0
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?hls_ctx=a9j04148
 
-#EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2-1
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2-2
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="señalprueva3, Señal prueva 3-1
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR00c69

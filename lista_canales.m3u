@@ -84,7 +84,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="señalprueva1, Señal prueva 1
-https://cubeembed.rpmvid.com/hls/pqnRiGQc-ovL8GEgGyF3Qw/db/fmg9y9ce/mi88hb/tt/index-f2-v1.m3u8?v=1766826492
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
 
 #EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2
 https://cubeembed.rpmvid.com/hls/pqnRiGQc-ovL8GEgGyF3Qw/db/fmg9y9ce/mi88hb/tt/index-f1-a1.m3u8?v=1766826492

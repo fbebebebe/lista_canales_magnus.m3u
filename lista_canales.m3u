@@ -84,7 +84,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="señalprueva1, Señal prueva l-
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+https://cubeembed.rpmvid.com/hls/Cb8qlWmPqGnJzFc6R0f4og/k5/v1feamnk/mehspu/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8

@@ -68,8 +68,8 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja, Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="señalprueva1, Señal prueva l-
-https://cubeembed.rpmvid.com/hls/Cb8qlWmPqGnJzFc6R0f4og/k5/v1feamnk/mehspu/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-id="señalprueva1, Señal prueva l-1
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="señalprueva2, Señal prueva 2
 https://vod3.cf.dmcdn.net/sec2(ZQaOcivlkpfUyeV57mH2MKsjQgad02ZtQgFa2M7Fdr2-wXcErWZbmfNzLCtqLEpIjUQNuYzZbY9ZileTrbm6NJPYLEvDDoPIFcbMwx4MHKO-0yeACcjLConASvGD46h4CtfxsFrhynT5v7URnoVV8CorFOH2zAXL8pzPQen4TqA)/video/084/372/473273480_mp4_h264_aac_hq.m3u8#cell=cf3

@@ -2,33 +2,33 @@
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/A24.png", A24 En vivo
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="CronicaHD", Cronica HD
+#EXTINF:-1 tvg-id="CronicaHD" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Cronica.png", Cronica HD
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="NetTV", Net TV
+#EXTINF:-1 tvg-id="NetTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/NetTV.png", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve, El Nueve
+#EXTINF:-1 tvg-id="ElNueve" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ElNueve.png", El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-#EXTINF:-1 tvg-id="AméricaTV, América TV
+#EXTINF:-1 tvg-id="AméricaTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/America.png", América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica, TV Pública
+#EXTINF:-1 tvg-id="TVPublica" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/TVPublica.png", TVPublica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital, Argentinisima Satelital
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ArgenSat.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="Canal7Neuquen, Canal 7 Neuquen
+#EXTINF:-1 tvg-id="Canal7Neuquen" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/1401_Canal_7_Neuquen.png", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal2Misiones, Canal 21 Misiones
+#EXTINF:-1 tvg-id="Canal2Misiones" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/1057_Canal_21_Misiones.png", Canal 21 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal9Litoral, Canal 9 Litoral
+#EXTINF:-1 tvg-id="Canal9Litoral" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Litoral.png", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26, Canal 26
+#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Canal26.png", Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 

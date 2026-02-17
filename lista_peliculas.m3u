@@ -1,12 +1,13 @@
 #EXTM3U
 
-# --- SECCIÓN BEN 10 ---
-#EXTINF:-1 tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/280/original/512dx0M-O_L._SX338_BO1_204_203_200_.jpg?1586146216" group-title="Ben 10", Ben 10: La Película (Parte 1)
-https://cubeembed.rpmvid.com/hls/pqnRiGQc-ovL8GEgGyF3Qw/db/fmg9y9ce/mi88hb/tt/index-f2-v1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q8d58h6y6q4k5.jpg" group-title="Ben 10", Capitulo 1: El inicio
+https://tuservidor.com/ben10_cap1.mp4
 
-#EXTINF:-1 tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/280/original/512dx0M-O_L._SX338_BO1_204_203_200_.jpg?1586146216" group-title="Ben 10", Ben 10: La Película (Parte 2)
-https://servidor.com/ben10_p2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q8d58h6y6q4k5.jpg" group-title="Ben 10", Capitulo 2: La transformación
+https://tuservidor.com/ben10_cap2.mp4
 
-# --- OTRA PELÍCULA ---
-#EXTINF:-1 tvg-logo="https://url_de_otro_logo.png" group-title="Batman", Batman: El Caballero de la Noche
-https://servidor.com/batman.mp4
+#EXTINF:-1 tvg-logo="https://otra-imagen.jpg" group-title="Avengers", Parte 1
+https://tuservidor.com/avengers1.mp4
+
+#EXTINF:-1 tvg-logo="https://otra-imagen.jpg" group-title="Avengers", Parte 2
+https://tuservidor.com/avengers2.mp4

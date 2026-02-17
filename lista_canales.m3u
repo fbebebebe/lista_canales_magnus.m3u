@@ -38,7 +38,7 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="Canal9Litoral" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Litoral.png", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9LinkChaco" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Link.png", 9Link Chaco
+#EXTINF:-1 tvg-id="9LinkChaco" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Link.jpg", 9Link Chaco
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Canal26.png", Canal 26
@@ -47,7 +47,7 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="RetroMagico" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/1364_Retro_Magico.png", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/MusicTop.png", MusicTop
+#EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/MusicTop.jpg", MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-1 tvg-id="TierramiaTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/TierramiaTV.jpg", Tierramia TV

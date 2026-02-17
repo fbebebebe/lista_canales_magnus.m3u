@@ -5,6 +5,12 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="CronicaHD" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Cronica.png", Cronica HD
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="TVSolidaria" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="CanalE" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NetTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/NetTV.png", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
@@ -20,6 +26,9 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ArgenSat.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 tvg-id="RadioLa100" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Fm Radio La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
 #EXTINF:-1 tvg-id="Canal7Neuquen" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/1401_Canal_7_Neuquen.png", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
@@ -29,11 +38,11 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="Canal9Litoral" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Litoral.png", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Canal26.png", Canal 26
-http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
 #EXTINF:-1 tvg-id="9LinkChaco" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/9Link.png", 9Link Chaco
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/Canal26.png", Canal 26
+http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="RetroMagico" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/1364_Retro_Magico.png", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
@@ -46,6 +55,54 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 #EXTINF:-1 tvg-id="ElGarageTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ElGarageTV.png", El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Pinamar" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 3 Pinamar
+https://intelincloud01.com.ar/hls/cn3/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Canal4Jujuy" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4Posadas" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Canal10Cordoba" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 10 Cordoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal13LaRioja" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal40Caucete" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal 40 Caucete
+https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="CanalProvincial" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Canal Provincial
+https://smcdn03.trimi.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMzA1ODcyIiwic2lwIjoiMTgxLjIyNC4yMjMuMTQzIiwicGF0aCI6Ii9saXZlL3NtLWxpdmUvUFJPVklOQ0lBTC9zYV9saXZlX2hscy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3OGE4MTU3OTU3OTNhMDEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xNi42Mi4yMjIiLCJhdWQiOiIxIiwic291cmNlcyI6WzFdfQ==.eElBf5ikAEyXDSIlpjaMw-2lulzvs6OZocV_136MHvTLkuUr-NC4-9qwUBjLyODWxJPYLN3tieWM5oCHT9xfQg==/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL-avc1_3000000=10003.m3u8
+
+#EXTINF:-1 tvg-id="CatamarcaTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1701969098_b1628000.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="ChilecitoTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="ElPalomarTVTucuman" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", El Palomar TV Tucuman
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?hls_ctx=029ma922&WebM3UCL
+
+#EXTINF:-1 tvg-id="TVRETROPALMARES" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TV RETRO PALMARES
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlusMusica1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Retro Plus Musica Señal 1
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w681169286.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="RetroPlusMusica2" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Retro Plus Musica Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1456025106.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="RetroPlusTVSeñal3" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1081158431.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="InminenteTVNeuquen" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Inminente TV Neuquen
+https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="TNECHILE" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TNE CHILE
+https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.0
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?WebM3UCL

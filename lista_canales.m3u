@@ -95,6 +95,12 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1456025106.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="RetroPlusTVSeñal3, Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1081158431.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-id="InminenteTVNeuquen, Inminente TV Neuquen
+https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="TNECHILE, TNE CHILE
+https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-id="canal3formosa, Señal prueva 1-0
 https://www.youtube.com/watch?v=QHkFM4O1m3Y
 

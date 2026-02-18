@@ -104,8 +104,8 @@ https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="TNECHILE" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TNE CHILE
 https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.0
+#EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.1
 https://anvtcax.fubohd.com/espn/mono.m3u8?token=426e56d5173ff5412d208b42805dcca1656c3f65-67-1771401419-1771383419
 
-#EXTINF:-1 tvg-id="señalprueva2" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva2.png", señal prueva 2.0
+#EXTINF:-1 tvg-id="señalprueva2" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva2.png", señal prueva 2.1
 https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd

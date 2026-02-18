@@ -110,8 +110,8 @@ https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="TNECHILE" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TNE CHILE
 https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-id="SoliveTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Solive TV
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8?hls_ctx=8204494t
+#EXTINF:-1 tvg-id="LasEstrellas" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.0
 http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800

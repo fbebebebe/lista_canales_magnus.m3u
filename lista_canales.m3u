@@ -26,6 +26,12 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ArgenSat.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 tvg-id="ESPN1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", ESPN 1
+https://anvtcax.fubohd.com/espn/mono.m3u8?token=426e56d5173ff5412d208b42805dcca1656c3f65-67-1771401419-1771383419
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Fox Sports
+https://agvyby.fubohd.com/foxsports/mono.m3u8?token=ac0fad5b8b2621924b579350dda8cbe9dc577d99-68-1771401827-1771383827
+
 #EXTINF:-1 tvg-id="RadioLa100" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Fm Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
@@ -105,7 +111,7 @@ https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?WebM3UCL
 https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.1
-https://anvtcax.fubohd.com/espn/mono.m3u8?token=426e56d5173ff5412d208b42805dcca1656c3f65-67-1771401419-1771383419
+https://anvtcax.fubohd.com/espn/mono.m3u8?token=426e56d5173ff5412d208b42805dcca1656c3f65-67-1771401419-17713834195
 
 #EXTINF:-1 tvg-id="señalprueva2" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva2.png", señal prueva 2.1
 https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd

@@ -26,12 +26,6 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/ArgenSat.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="ESPN1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", ESPN 1
-https://anvtcax.fubohd.com/espn/mono.m3u8?token=426e56d5173ff5412d208b42805dcca1656c3f65-67-1771401419-1771383419
-
-#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Fox Sports
-https://agvyby.fubohd.com/foxsports/mono.m3u8?token=ac0fad5b8b2621924b579350dda8cbe9dc577d99-68-1771401827-1771383827
-
 #EXTINF:-1 tvg-id="RadioLa100" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Fm Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
@@ -115,6 +109,15 @@ https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="OROMARTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", TyC Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+EXTINF:-1 tvg-id="RTNNeuquen" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", RTN Neuquen
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
+EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Disney Channel
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="señalprueva1" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva1.png", señal prueva 1.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b85e-c01c-11f0-a806-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6eacd663-2ada-4b93-a9bd-4bb655b322ec&userId=&serverSideAds=true

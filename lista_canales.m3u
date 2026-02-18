@@ -86,8 +86,11 @@ https://smcdn03.trimi.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOi
 #EXTINF:-1 tvg-id="CatamarcaTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1701969098_b1628000.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-id="ChilecitoTV" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Chilecito TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RetroMusicTelevision" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ElPalomarTVTucuman" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/sin_logo_canal.png", El Palomar TV Tucuman
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?hls_ctx=029ma922&WebM3UCL
@@ -114,4 +117,4 @@ https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8?WebM3UCL
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b85e-c01c-11f0-a806-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6eacd663-2ada-4b93-a9bd-4bb655b322ec&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="señalprueva2" tvg-logo="https://raw.githubusercontent.com/fbebebebe/lista_canales_magnus.m3u/main/logostv/SeñalPrueva2.png", señal prueva 2.0
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b354-c01c-11f0-ad6e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786b84f8-274d-45f7-81bd-d8fbb0930b22&userId=&serverSideAds=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true
